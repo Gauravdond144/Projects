@@ -1,0 +1,14 @@
+Git Commands
+
+git --version  (To check git version)
+git config --global user.name <name>  (set user Name)
+git config --global user.email <email>  (set user email)
+git confit --global --edit   (to edit name & email)
+git init (inialize git in current directory)
+git status  (status of git tracked & untraked files)
+git add < file name>   (add file to track by git)
+git add .  (add all files )
+git commit -m "<Message for commit >"    (commit changes with given message)
+git log (see all previus commits with its hashcode)
+git checkout
+
